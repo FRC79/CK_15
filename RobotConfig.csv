@@ -1,0 +1,27 @@
+Debug_Mode,		1.0
+Shooter_P,		0.5
+Shooter_I,		1.0
+Shooter_D,		0.0
+Fender_Mid, 	3.0
+Fender_High, 	3.8
+Key_Mid,		4.091
+Key_High,		4.7
+Side_Mid,		3.5
+Side_High,		4.75
+LConveyor_In,	1.0
+LConveyor_Out,	-1.0
+UConveyor_In,	1.0
+UConveyor_Out,	-1.0
+Range_Knob, 	3.0
+Range_Scale,	0.303
+Range_Deadband, 0.25
+Speed_Scale, 	10.0
+Fender_Mid_Btn, 11.0
+Fender_High_Btn, 9.0
+Key_Mid_Btn,	13.0
+Key_High_Btn,	12.0
+auton_delay,	8.0
+end_shooting,	15.0
+auton_high,		1.0
+turret_center, 	1.47604
+
